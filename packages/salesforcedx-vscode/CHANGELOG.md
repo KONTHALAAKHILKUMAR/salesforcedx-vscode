@@ -1,3 +1,19 @@
+# 61.13.0 - September 11, 2024
+
+## Fixed
+
+#### salesforcedx-vscode-core
+
+- Implement provider for telemetry ([PR #5786](https://github.com/forcedotcom/salesforcedx-vscode/pull/5786))
+
+#### salesforcedx-vscode-lightning
+
+- Bump to latest lightning-language-server @W-16625817@ ([PR #5821](https://github.com/forcedotcom/salesforcedx-vscode/pull/5821))
+
+#### salesforcedx-vscode-lwc
+
+- Bump to latest lightning-language-server @W-16625817@ ([PR #5821](https://github.com/forcedotcom/salesforcedx-vscode/pull/5821))
+
 # 61.12.0 - September 4, 2024
 
 ## Fixed
