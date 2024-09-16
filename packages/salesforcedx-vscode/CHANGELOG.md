@@ -1,3 +1,31 @@
+# 61.14.0 - September 18, 2024
+
+## Added
+
+#### salesforcedx-vscode-core
+
+- Bump deps to catch up with latest ([PR #5844](https://github.com/forcedotcom/salesforcedx-vscode/pull/5844))
+
+## Fixed
+
+#### salesforcedx-vscode-core
+
+- Check for expiration of default org on activation ([PR #5835](https://github.com/forcedotcom/salesforcedx-vscode/pull/5835))
+
+- Show error message for push/pull when the error does not involve files ([PR #5838](https://github.com/forcedotcom/salesforcedx-vscode/pull/5838))
+
+- Forever truthy constructor for options ([PR #5830](https://github.com/forcedotcom/salesforcedx-vscode/pull/5830))
+
+- Implement provider for telemetry ([PR #5786](https://github.com/forcedotcom/salesforcedx-vscode/pull/5786))
+
+#### salesforcedx-vscode-lightning
+
+- Bump to latest lightning-language-server @W-16625817@ ([PR #5821](https://github.com/forcedotcom/salesforcedx-vscode/pull/5821))
+
+#### salesforcedx-vscode-lwc
+
+- Bump to latest lightning-language-server @W-16625817@ ([PR #5821](https://github.com/forcedotcom/salesforcedx-vscode/pull/5821))
+
 # 61.12.0 - September 4, 2024
 
 ## Fixed
